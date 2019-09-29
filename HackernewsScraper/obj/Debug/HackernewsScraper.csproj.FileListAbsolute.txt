@@ -1,0 +1,10 @@
+c:\users\flora\documents\visual studio 2017\Projects\HackernewsScraper\HackernewsScraper\bin\Debug\HackernewsScraper.exe.config
+c:\users\flora\documents\visual studio 2017\Projects\HackernewsScraper\HackernewsScraper\bin\Debug\HackernewsScraper.exe
+c:\users\flora\documents\visual studio 2017\Projects\HackernewsScraper\HackernewsScraper\bin\Debug\HackernewsScraper.pdb
+c:\users\flora\documents\visual studio 2017\Projects\HackernewsScraper\HackernewsScraper\obj\Debug\HackernewsScraper.csprojResolveAssemblyReference.cache
+c:\users\flora\documents\visual studio 2017\Projects\HackernewsScraper\HackernewsScraper\obj\Debug\HackernewsScraper.exe
+c:\users\flora\documents\visual studio 2017\Projects\HackernewsScraper\HackernewsScraper\obj\Debug\HackernewsScraper.pdb
+c:\users\flora\documents\visual studio 2017\Projects\HackernewsScraper\HackernewsScraper\bin\Debug\Newtonsoft.Json.dll
+c:\users\flora\documents\visual studio 2017\Projects\HackernewsScraper\HackernewsScraper\bin\Debug\System.Net.Http.Formatting.dll
+c:\users\flora\documents\visual studio 2017\Projects\HackernewsScraper\HackernewsScraper\bin\Debug\Newtonsoft.Json.xml
+c:\users\flora\documents\visual studio 2017\Projects\HackernewsScraper\HackernewsScraper\bin\Debug\System.Net.Http.Formatting.xml
